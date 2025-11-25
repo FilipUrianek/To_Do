@@ -13,7 +13,7 @@ FILE_PATH = os.path.join(
     os.path.dirname(os.path.abspath(__file__)),
     #your path to excel
 )
-HEADERS = ["Date", "Kniha", "Úklid", "Investice", "Šetření", "Práce", "Programování", "Cvičení", "SkinCare"]
+HEADERS = [#Add your heeaders]
 TASKS = HEADERS[1:]
 
 
